@@ -21,7 +21,7 @@ namespace NotifivationCheckOutDate
 {
     public partial class Service1 : ServiceBase
     {
-        private const string Group1 = "BusinessTasks";
+        private const string Group1 = "BusinessTasks1";
         private const string Job = "Job";
         //cai dat log4net.config is alway copy, AsemblyInfo: 
         //[assembly: log4net.Config.XmlConfigurator(ConfigFile = "log4net.config")]
